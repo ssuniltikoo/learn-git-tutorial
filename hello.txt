@@ -3,4 +3,6 @@ git commands
 
 -- create new branch
 git checkout -b feature/branch-name
+-- 2nd commit ------
+-- git commit -m "commitdetails"
 
