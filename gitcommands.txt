@@ -1,1 +1,105 @@
-this file is created in branch feature-2
+    1  pwd
+    2  cd ..
+    3  cd ..
+    4  cd scale
+    5  ls
+    6  cd backend/
+    7  ls
+    8  ls
+    9  cd into_and_git
+   10  ls
+   11  mkdir git-lear-repos
+   12  cd git-lear-repos/
+   13  ls
+   14  git clone git@github.com:ssuniltikoo/git_class_12_feb.git
+   15  ls
+   16  cd c:
+   17  pwd
+   18  cd workspace/
+   19  ls
+   20  cd ..
+   21  cd scale/
+   22  ls
+   23  cd backend/
+   24  ls
+   25  mkdir git-practice
+   26  cd git-practice/
+   27  ls
+   28  git branch
+   29  mkdir git-commands
+   30  ls
+   31  cd git-commands/
+   32  ls
+   33  clear
+   34  git init
+   35  ls
+   36  ls -lsrt
+   37  git checkout -b feature/branch-1
+   38  touch hello.txt
+   39  ls
+   40  vi hello.txt
+   41  ls
+   42  git status
+   43  git add .
+   44  ls
+   45  git log
+   46  git commit -m "git first commit in feature/branch-1"
+   47  ls
+   48  clear
+   49  git log
+   50  vi hello.txt 
+   51  ls
+   52  git status
+   53  git commit -m "update hello.txt with git commands"
+   54  git add
+   55  git add .
+   56  ls
+   57  git commit -m "update hello.txt with git commands"
+   58  git log
+   59  clear
+   60  git checkout -b feature/branch-2
+   61  ls
+   62  touch gitcommands.txt
+   63  ls
+   64  vi gitcommands.txt 
+   65  ls
+   66  git status
+   67  git log
+   68  git add .
+   69  git command -m "first commit in feature/branch-2"
+   70  git status
+   71  git log
+   72  git status
+   73  git add .
+   74  git status
+   75  git log
+   76  git commit -m "gitcommands file commits"
+   77  git log
+   78  ls
+   79  clear
+   80  git log
+   81  ls
+   82  git branch
+   83  git checkout feature/branch-1
+   84  ls
+   85  vi hello.txt 
+   86  git status
+   87  git add .
+   88  git log
+   89  git commit -m "hello.tx | updated hello.txt file 21022024 10:55"
+   90  clear
+   91  git log
+   92  git branch
+   93  git checkout feature/branch-2
+   94  git log
+   95  ls
+   96  less hello.txt
+   97  ls
+   98  git checkou -b feature/branch-3
+   99  git checkout -b feature/branch-3
+  100  ls
+  101  clear
+  102  ls
+  103  git log
+  104  history
+  105  history > gitcommands.txt 
