@@ -4,5 +4,5 @@
 
 ### list of git commands
 
-    ## git add .
+    - git add .
        @Description - add git files
